@@ -1,6 +1,9 @@
 # Destino-Cosmico-DDU
 Livro-jogo interdisciplinar com intuito de difundir conceitos de Astrobiologia e Computação.
 
+## Requisitos
+Por enquanto o jogo apenas funciona em Windows - 64bits.
+
 Para jogar, siga os passos abaixo:
 ## 1. Clone este repositório
 Você pode tanto baixar o arquivo zip, como rodar o comando 'git clone {urldorepositorio}'
